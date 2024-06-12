@@ -1,1 +1,3 @@
 third file text
+
+Was modified in master branch
